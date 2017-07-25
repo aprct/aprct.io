@@ -8,8 +8,8 @@ class Bogo extends React.Component {
     return (
       <div className="Bogo">
         <div className="logo">
-          abcd<br/>
-          .fg
+          aprct<br/>
+          .io
         </div>
       </div>
     )
