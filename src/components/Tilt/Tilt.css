@@ -1,0 +1,7 @@
+.Tilt {
+  height: 400px;
+  width: 400px;
+  background-color: rgba(255,0,0,0.14);
+  transform-style: preserve-3d;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.15), 0 10px 10px rgba(0,0,0,0.12);
+}
