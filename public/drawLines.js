@@ -2,7 +2,7 @@ var vertices = [];
 var line_posY = 5;
 
 function setup() {
-  var d = 400;
+  var d = 240;
   var canvas = createCanvas(d, d);
   canvas.parent("Tilt")
   init();

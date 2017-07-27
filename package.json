@@ -11,7 +11,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "cd build && surge && cd ..",
+    "deploy": "npm run predeploy && cd build && surge && cd ..",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",

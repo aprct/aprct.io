@@ -2,8 +2,8 @@
   display: block;
   position: absolute;
   box-sizing: border-box;
-  left: -64px;
-  bottom: 64px;
+  left: -32px;
+  bottom: 48px;
   padding: 16px;
   background-color: #000;
   transform: translateZ(20px);
@@ -15,10 +15,11 @@
   position: relative;
   box-sizing: border-box;
   color: #fff;
-  font-size: 4em;
+  font-size: 2em;
   line-height: 1em;
+  font-weight: 600;
   text-align: right;
-  border-bottom: 0.17em solid #fff;
+  border-bottom: 0.14em solid #fff;
 
   -webkit-user-select: none;  /* Chrome all / Safari all */
   -moz-user-select: none;     /* Firefox all */

@@ -10,7 +10,8 @@ class Tilt extends React.Component {
   componentDidMount() {
     tiltjs.init(document.querySelector('.Tilt'), {
       reverse: true,
-  		max: 25,
+      scale: 1.1,
+  		max: 15,
   		speed: 400
   	});
   }
