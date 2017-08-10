@@ -1,7 +1,7 @@
 import React from 'react';
-import Bogo from '../Bogo';
-
 import './Tilt.css'
+
+import Bogo from '../Bogo';
 
 import tiltjs from 'vanilla-tilt';
 

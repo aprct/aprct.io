@@ -13,6 +13,7 @@ function mousePressed() {
   init();
   draw();
 }
+document.drawLines = mousePressed;
 
 function init() {
   blendMode(BLEND);

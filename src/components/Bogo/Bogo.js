@@ -11,6 +11,24 @@ class Bogo extends React.Component {
           aprct<br/>
           .io
         </div>
+        <div className="aesthetic">
+          AESTHETIC
+          {/* <div class="column">
+            A<br/>
+            T<br/>
+            T
+          </div>
+          <div class="column">
+            E<br/>
+            H<br/>
+            I
+          </div>
+          <div class="column">
+            S<br/>
+            E<br/>
+            C
+          </div> */}
+        </div>
       </div>
     )
   }
